@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/keerthan1512">
-    <img src="https://img.shields.io/github/followers/keerthan1512?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/keerthannarra">
+    <img src="https://img.shields.io/github/followers/keerthannarra?label=Followers&style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Backend-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge" />
@@ -65,12 +65,12 @@ hobbies: ["Cricket 🏏", "Hackathons ⚡", "Building cool stuff 🚀"]
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=keerthan1512&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthan1512&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=keerthannarra2&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthannarra&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthan1512&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthannarra&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
